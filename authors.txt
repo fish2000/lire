@@ -1,0 +1,4 @@
+(no author) = Alexander Böhn <fish2000@gmail.com>
+kelkalot@gmail.com = Kelkalot <kelkalot@gmail.com>
+mario.taschwer@gmail.com = Mario Taschwer <mario.taschwer@gmail.com>
+mathias.lux@gmail.com = Mathias Lux <mathias.lux@gmail.com>
